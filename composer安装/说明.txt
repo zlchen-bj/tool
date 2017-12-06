@@ -1,0 +1,1 @@
+将composer.bat和composer.phar放入php.exe同级目录中，就可以在cmd窗口使用composer命令
